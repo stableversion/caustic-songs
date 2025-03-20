@@ -1,0 +1,12 @@
+# Caustic
+midi/
+export/
+*.mid
+*.midi
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
